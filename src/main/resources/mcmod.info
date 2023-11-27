@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "example",
+    "name": "Example",
+    "description": "example",
+    "version": "1.0-SNAPSHOT",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["chaottic"],
+    "credits": "chaottic",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
