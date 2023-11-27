@@ -11,6 +11,5 @@ public final class ExampleClientEvents {
 
     @SubscribeEvent
     public static void registerModels(ModelRegistryEvent event) {
-
     }
 }
