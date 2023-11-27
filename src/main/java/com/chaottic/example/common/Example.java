@@ -1,8 +1,8 @@
 package com.chaottic.example.common;
 
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.SidedProxy;
 import net.minecraft.util.ResourceLocation;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.SidedProxy;
 
 @Mod(modid = Example.MOD_ID)
 public final class Example {
