@@ -3,7 +3,7 @@ plugins {
     id("net.minecraftforge.gradle")
 }
 
-group = "com.chaottic"
+group = "com.harleylizard"
 version = "1.0-SNAPSHOT"
 
 minecraft {

@@ -1,4 +1,4 @@
-package com.chaottic.example.common;
+package com.harleylizard.example.common;
 
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.common.Mod;

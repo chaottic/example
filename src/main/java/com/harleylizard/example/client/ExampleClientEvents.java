@@ -1,6 +1,6 @@
-package com.chaottic.example.client;
+package com.harleylizard.example.client;
 
-import com.chaottic.example.common.Example;
+import com.harleylizard.example.common.Example;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
