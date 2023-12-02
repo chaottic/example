@@ -1,4 +1,4 @@
-package com.chaottic.example.common;
+package com.harleylizard.example.common;
 
 public final class ServerProxy implements Proxy {
 }
